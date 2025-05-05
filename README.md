@@ -8,14 +8,14 @@
 <ul>
  I am a final-year <strong>Computer Science and Engineering student at NIT Patna (CSE'25)</strong>  with a strong foundation in Data Structures and Algorithms, and a deep interest in solving data-driven problems.
 
-As an <strong> Aspiring Data Analyst,</strong> I am passionate about transforming raw data into actionable insights. I have hands-on experience with tools like Power BI, Excel, and Python (Pandas, NumPy, Matplotlib, Seaborn) for data analysis and visualization. I enjoy working on real-world datasets, uncovering trends, and building dashboards that drive informed decision-making.
+As an <strong> Aspiring Data Analyst,</strong> I am passionate about transforming raw data into actionable insights. I have hands-on experience with tools like <strong> Power BI, Excel, and Python (Pandas, NumPy, Matplotlib, Seaborn) </strong> for data analysis and visualization. I enjoy working on real-world datasets, uncovering trends, and building dashboards that drive informed decision-making.
 
 
 </ul>
 <br>
 <h2 id="connect-with-me-">Connect with me ☕ :</h2>
 <br>
-<p><a href="https://www.instagram.com/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://www.facebook.com/AnushkaWijegoonawardana97"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="@AnushkaWijegoonawardana97" title="@AnushkaWijegoonawardana97"></a> <a href="https://www.linkedin.com/in/anushkawijegoonawardana97/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@anushkawijegoonawardana97" title="@anushkawijegoonawardana97"></a> <a href="https://twitter.com/anushka_wije"><img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="@anushka_wije" title="@anushka_wije"></a> <a href="tel:0711971313"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="@0711971313" title="@0711971313"></a> <a href="anushkaduwolka123@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@anushkaduwolka123@gmail.com" title="@anushkaduwolka123@gmail.com"></a></p>
+<p><a href="https://www.instagram.com/dayanandnayak23__?igsh=dHExcHd6OTNwbXc1"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="@dayanandnayak23__" title="dayanandnayak23__"></a> <a href=" https://www.facebook.com/dayanand.bhukya.1"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="@dayanandnayak23__" title=" @dayanandnayak23__"></a> <a href="https://www.linkedin.com/in/dayanandbhukya123/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@dayanandnayak23__" title="@dayanandnayak23__"></a> <a href="https://x.com/DayanandBhukya?t=-TvyVUrbIw6cnMZmRly9_Q&s=09"><img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="@dayanandnayak23__" title="@dayanandnayak23__"></a> <a href="phn:9392553918"><img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="" title="@9392553918"></a> <a href="dayanandbhukya@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="@dayanandbhukya@gmail.com" title="@dayanandbhukya@gmail.com"></a></p>
 <br>
 <h2 id="what-i-am-good-at-">What I am Good at 🧑‍💻 :</h2>
 <br>
