@@ -10,7 +10,7 @@
   🔭 <b>I have Performed exploratory data analysis (EDA), statistical modeling, and trend forecasting to support data-driven decisions.</b><br>
   💬 <b>Skilled in Python and SQL, with hands-on experience in data wrangling, exploratory data analysis, and dashboarding.</b><br>
   📊 <b>Proficient in data analysis tools such as Pandas, NumPy, Power BI, Tableau, and Excel.</b><br>
-  ⚡ <b>Strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Automation, and Blockchain development.</b><br>
+  ⚡ <b>Strong interest in Artificial Intelligence, Machine Learning, Deep Learning, Data Science.</b><br>
   ✨ <b>I believe in precision and strive for perfection in everything I do.</b>
 </h4>
 <div align="left"></div>
