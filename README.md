@@ -23,10 +23,10 @@
 <br>
 <h2 id="what-i-am-good-at-"> Languages & tools I Have placed My Hands On 🧑‍💻 :</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,gitlab,raspberrypi,arduino,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,ubuntu,python,javascript,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,htmx,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,gitlab,raspberrypi,arduino,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=c,ubuntu,python,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,htmx,atom,pwsh" /><br>
 </div>
  <h3>💻 Tech Stack:</h3>
      <br/>
